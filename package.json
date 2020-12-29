@@ -1,0 +1,27 @@
+{
+  "name": "sdfs",
+  "version": "0.0.1",
+  "description": "Smart Disk File System",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "smartdisk.org",
+  "license": "GPL-3.0",
+  "bin": {
+    "sdfs": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartdisk/sdfs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smartdisk/sdfs/issues"
+  },
+  "homepage": "https://github.com/smartdisk/sdfs#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0"
+  }
+}
