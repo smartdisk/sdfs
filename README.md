@@ -1,5 +1,7 @@
-## SmartDisk is File Management App in iOS
-https://apps.apple.com/app/file-explorer-file-manager/id511271604
-## Thank you.
+# SDFS
+## SDFS in this repository means Smart Disk File System.
+Our target is for a safe and convenient on-offline file system.
 
+We will update related code and documentation as we progress.
 
+Thank you.
